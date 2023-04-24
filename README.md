@@ -46,19 +46,19 @@ _class: lead invert
 
 # Candidates
 
-* ISV Solution
-* Solution runs in customer's AKS
-* ISV does not need to manage app hands-on after deployment
+- ISV Solution
+- Solution runs in customer's AKS
+- ISV does not need to manage app hands-on after deployment
 
 ---
 
 # Examples
 
-* Service Mesh
-* Container Network Interface (CNI)
-* Data Backup/Recovery
-* Network Appliance (e.g. Ingress, API Gateway, Firewall, etc.)
-* ML Ops (e.g. Kubeflow)
+- Service Mesh
+- Container Network Interface (CNI)
+- Data Backup/Recovery
+- Network Appliance (e.g. Ingress, API Gateway, Firewall, etc.)
+- ML Ops (e.g. Kubeflow)
 
 ---
 
