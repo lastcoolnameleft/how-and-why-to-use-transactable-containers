@@ -71,3 +71,10 @@ _class: lead invert
 # End to End Flow
 
 ![img](img/end-to-end-flow.png)
+
+---
+
+# Next Steps
+
+- [Mastering the Marketplace for K8s Apps](https://microsoft.github.io/Mastering-the-Marketplace/container/)
+
