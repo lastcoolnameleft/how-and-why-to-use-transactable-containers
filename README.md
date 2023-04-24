@@ -77,4 +77,4 @@ _class: lead invert
 # Next Steps
 
 - [Mastering the Marketplace for K8s Apps](https://microsoft.github.io/Mastering-the-Marketplace/container/)
-
+- [Zero to Hero with K8s Apps](https://aka.ms/k8sapps)
